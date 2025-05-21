@@ -3,8 +3,8 @@
     "short_name": "El Muñeco Cibernetico",
     "start_url": "index.html",
     "display": "standalone",
-    "background_color": "#a5eb7a",
-    "theme_color": "#a5eb7a",
+    "background_color": "#4097ed",
+    "theme_color": "#4097ed",
     "description": "Escucha a tu Locutor favorito en cualquier lugar.",
     "icons": [
         {
