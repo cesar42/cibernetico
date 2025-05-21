@@ -1,11 +1,11 @@
 {
-    "name": "Monee Radio",
-    "short_name": "Monee Radio",
+    "name": "El Muñeco Cibernetico",
+    "short_name": "El Muñeco Cibernetico",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#3c3c3c",
     "theme_color": "#3c3c3c",
-    "description": "Escucha tu radio favorita en cualquier lugar.",
+    "description": "Escucha a tu Locutor favorito en cualquier lugar.",
     "icons": [
         {
             "src": "imagenes/app.png",
